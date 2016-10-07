@@ -1,4 +1,5 @@
 # castle-attack
+Castle defense game written in Java.
 
 Castle Attack!
 
