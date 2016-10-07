@@ -1,0 +1,46 @@
+<save>
+	<player>
+	
+		<castle>
+			<health></health>
+		</castle>
+		
+		<soldiers>
+			<soldier>
+				<x></x>
+				<y></y>
+				<health></health>
+				<target>
+					<health></health>
+				</target>
+				<type></type>
+			</soldier>
+		</soldiers>
+		
+		<projectiles>
+			<projectile>
+				<x></x>
+				<y></y>
+				<vx></vx>
+				<vy></vy>
+				<type></type>
+			</projectile>
+		</projectiles>
+		
+		<upgrades>
+			<upgrade></upgrade>
+		</upgrades>
+		
+		<firepoint>
+			<x></x>
+			<y></y>
+		</firepoint>
+		
+		<spawnpoint>
+			<x></x>
+			<y></y>
+		</spawnpoint>
+		
+		<gold></gold>
+	</player>
+</save>
